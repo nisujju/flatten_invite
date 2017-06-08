@@ -1,0 +1,7 @@
+Question 1 :- Proudest Achievement
+
+As a sole and full stack developer of B2B networking/advertisement site known as http://www.tradeindialeads.com . This project gave me immense opportunity to learn basics and indepth knowledge of frontend, backend as well as cloud deployment. As an RoR developer developing this site which equipped me with bootstrap for mobile compatibility as well as I implemented fundamentals of SEO and google SEO tools.
+
+Question 2 :- Kindly refer to flatten_array.rb file for solution. For test cases please refer to spec folder. Kindly note that testing has been done thru Rspec.
+
+Question 3 :- Kindly refer to invite_customer.rb file. For testing please refer to spec folder.

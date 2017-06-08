@@ -1,0 +1,38 @@
+// Customer file in which user with id 1, 2 & 3 lives under 100 kms of the given location whereas rest are beyond 100 kms.
+[    
+    {
+    "id": 3,
+    "name": "User3",
+	"coordinates": [53.22062827, -6.0386026]
+    },
+
+    {
+    "id": 2,
+    "name": "User2",
+	"coordinates": [53.50405322, -4.93791633]
+    },
+
+    {
+    "id": 1,
+    "name": "User1",
+	"coordinates": [53.28315306, -6.71719347]
+    },
+
+    {
+    "id": 4,
+    "name": "User4",
+	"coordinates": [50.91441649, -12.15240611]
+    },
+
+    {
+    "id": 5,
+    "name": "User5",
+	"coordinates": [54.54140041, -9.26797963]
+    },
+
+    {
+    "id": 6,
+    "name": "User6",
+	"coordinates": [51.39955683, -6.60891297]
+    }
+]
